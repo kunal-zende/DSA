@@ -1,0 +1,9 @@
+);
+        ll.removeFirst();
+        ll.print();
+        System.out.println(size);
+        ll.removeLast();
+        ll.print();
+        System.out.println(size);
+        System.out.println(ll.itrSearch(3));
+        System.out.println(ll.recSearch(6));
